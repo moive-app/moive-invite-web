@@ -19,6 +19,7 @@
   width: 136px;
   height: auto;
   margin-top: 101px;
+  transform: translateY(-30px);
 }
 
 .invite-copy {
