@@ -18,7 +18,7 @@
 .moive-logo {
   width: 136px;
   height: auto;
-  margin-top: 101px;
+  margin-top: 60px;
   transform: translateY(-30px);
 }
 
@@ -66,7 +66,8 @@
   margin-top: 56px;
 }
 
-.invite-actions button {
+.invite-actions button,
+.invite-actions a {
   width: 100%;
   height: 52px;
   padding: 0 32px;
@@ -81,6 +82,8 @@
   line-height: 26px;
   letter-spacing: normal;
   cursor: pointer;
+  box-sizing: border-box;
+  text-decoration: none;
 }
 
 .open-app-button {
